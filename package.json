@@ -4,7 +4,7 @@
   "description": "bsgj native h5 intelaction",
   "main": "index.js",
   "scripts": {
-    "test": "webpack --watch",
+    "test": "webpack -mdp",
     "start": "webpack -p"
   },
   "repository": {
