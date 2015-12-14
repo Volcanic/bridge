@@ -30,3 +30,5 @@ export const locatePlugins = LOCATE_PLUGINS;
 import PAYMENT_PLUGINS from './lib/paymentPlugins';
 export const paymentPlugins = PAYMENT_PLUGINS;
 
+import DATETIME_PLUGINS from './lib/dateTimePlugins';
+export const dateTimePlugins = DATETIME_PLUGINS;
